@@ -1,0 +1,19 @@
+{
+  "name": "carl-api",
+  "version": "1.0.0",
+  "description": "un npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Carlos20007/Carl-API.git"
+  },
+  "author": "Carlos20007",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Carlos20007/Carl-API/issues"
+  },
+  "homepage": "https://github.com/Carlos20007/Carl-API#readme"
+}
